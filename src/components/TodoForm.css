@@ -1,0 +1,9 @@
+.flex-container{
+    display:flex;
+    flex-wrap: wrap;
+}
+
+.for{
+    outline-color: blue;
+    border-radius: 10px;
+}
