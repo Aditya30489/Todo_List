@@ -11,7 +11,7 @@ function TodoItem({ index, item, toggleComplete, removeItem }) {
     setShowApplause(true);
     setTimeout(() => {
       setShowApplause(false);
-    }, 5000);
+    }, 6000);
   };
 
 
